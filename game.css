@@ -8,9 +8,26 @@
 }
 
 h2 {
-  color: forestgreen;
+  color: yellow;
 }
 
 h3 {
-  color: forestgreen;
+  color: yellow;
+}
+body {
+  background-image: url('background1.jpg');
+}
+
+table {
+  border-color: black;
+}
+
+.logo {
+  width: 300px;
+  height: 100px;
+}
+
+#header {
+  margin-top: 30px;
+  height: 330px;
 }
